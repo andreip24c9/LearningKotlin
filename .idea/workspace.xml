@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< Updated upstream
     <list default="true" id="e8cb1df5-d74e-4027-8e7a-f807f4154894" name="Default" comment="" />
+=======
+    <list default="true" id="e8cb1df5-d74e-4027-8e7a-f807f4154894" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinDemo/learning/collections/MainKt.class" afterPath="$PROJECT_DIR$/out/production/KotlinDemo/learning/collections/MainKt.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/learning/collections/Main.kt" afterPath="$PROJECT_DIR$/src/learning/collections/Main.kt" />
+    </list>
+>>>>>>> Stashed changes
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -15,8 +23,13 @@
       <file leaf-file-name="Main.kt" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/learning/collections/Main.kt">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< Updated upstream
             <state relative-caret-position="60">
               <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+=======
+            <state relative-caret-position="404">
+              <caret line="65" column="30" lean-forward="true" selection-start-line="65" selection-start-column="30" selection-end-line="65" selection-end-column="30" />
+>>>>>>> Stashed changes
               <folding />
             </state>
           </provider>
@@ -84,8 +97,8 @@
         <option value="$PROJECT_DIR$/src/old/Main.java" />
         <option value="$PROJECT_DIR$/src/learning/collections/Program.kt" />
         <option value="$PROJECT_DIR$/src/learning/with_apply/Program.kt" />
-        <option value="$PROJECT_DIR$/src/learning/collections/Main.kt" />
         <option value="$PROJECT_DIR$/src/learning/basics/Main.kt" />
+        <option value="$PROJECT_DIR$/src/learning/collections/Main.kt" />
       </list>
     </option>
   </component>
@@ -832,6 +845,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/KotlinDemo.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/learning/basics/Main.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -842,8 +863,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/learning/collections/Main.kt">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< Updated upstream
         <state relative-caret-position="60">
           <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+=======
+        <state relative-caret-position="404">
+          <caret line="65" column="30" lean-forward="true" selection-start-line="65" selection-start-column="30" selection-end-line="65" selection-end-column="30" />
+>>>>>>> Stashed changes
           <folding />
         </state>
       </provider>
