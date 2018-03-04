@@ -10,7 +10,7 @@ public class User {
     public void create(Created created) {
         created.onCreate(this);
     }
-    
+
     @Override
     public String toString() {
         return "User{" +
